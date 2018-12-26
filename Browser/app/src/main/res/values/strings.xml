@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="type_url">Type Url :</string>
+    <string name="go">Go</string>
+</resources>
